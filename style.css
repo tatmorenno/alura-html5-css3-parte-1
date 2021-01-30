@@ -1,7 +1,16 @@
 body {
 	text-align: center;
+	background-color: #FFFFFF;
 }
 
-.second {
+h1 {
+	background-color: #282923;
+	color: #999999;
+}
+
+em strong {
+	color: #282923;
 	font-size: 20px;
 }
+
+
